@@ -5,7 +5,9 @@ paper link: https://arxiv.org/pdf/1912.09363.pdf
 
 This is an implemetation of stock dataset and pm2.5 dataset to predict future value.
 
-For stock dataset, 
+For stock dataset, used 50 days of historical data to predict the next day's 'Close' value.
+
+For beijing pm2.5 dataset, used 24 hours of historical data to predict the next hour's 'pm 2.5 concentration'
 
 # Download Dataset
 You can download each dataset through below url.
